@@ -1,12 +1,5 @@
 ## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Jesse!  
 
-<a href="https://github.com/JesseAtSZ" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ### Glad to see you here!  
 I'm Jesse, a full-time database developer, working remotely since 2018.
 
