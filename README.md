@@ -1,4 +1,4 @@
-## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Jesse!  
+## Hey <a href="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/icon/hi.gif?raw=true" width="25px"></a>, I'm Jesse!  
 
 ### Glad to see you here!  
 **I'm Jesse, a full-time database developer, working since 2018.**
@@ -41,7 +41,7 @@
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/rust-plain.svg" alt="Rust" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
