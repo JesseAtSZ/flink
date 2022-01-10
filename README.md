@@ -1,7 +1,7 @@
 ## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Jesse!  
 
 ### Glad to see you here!  
-I'm Jesse, a full-time database developer, working remotely since 2018.
+I'm Jesse, a full-time database developer, working since 2018.
 
 I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.  
   
