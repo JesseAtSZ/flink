@@ -20,12 +20,12 @@ I specialize in building middleware for database. I love designing systems that 
 
 - Ask me about anything related to database and related technologies  
   
+  
+- I love basketball, fitness, traveling, Overwatch, classic music and enjoying delicious food.  
+
 
 - I love connecting with different people so if you want to say hi, I'll be happy to meet you more!  
   
-
-- I love basketball, fitness, traveling, Overwatch, classic music and enjoying delicious food.  
-
 
 </td><td valign="top" width="50%">
 
