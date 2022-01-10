@@ -1,9 +1,9 @@
 ## Hey <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>, I'm Jesse!  
 
 ### Glad to see you here!  
-I'm Jesse, a full-time database developer, working remotely since 2018.
+**I'm Jesse, a full-time database developer, working remotely since 2018.**
 
-I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.  
+**I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.  **
   
 
 <br/>  
@@ -12,19 +12,19 @@ I specialize in building middleware for database. I love designing systems that 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- I’m currently working on Shenzhen Institute of Computing Sciences  
+- **I’m currently working on Shenzhen Institute of Computing Sciences**
   
 
-- I’m currently learning rust and key-value database  
+- **I’m currently learning rust and key-value database**
   
 
-- Ask me about anything related to database and related technologies  
+- **Ask me about anything related to database and related technologies**
   
   
-- I love basketball, fitness, traveling, Overwatch, classic music and enjoying delicious food.  
+- **I love basketball, fitness, traveling, Overwatch, classic music and enjoying delicious food**
 
 
-- I love connecting with different people so if you want to say hi, I'll be happy to meet you more!  
+- **I love connecting with different people so if you want to say hi, I'll be happy to meet you more!**
   
 
 </td><td valign="top" width="50%">
@@ -74,7 +74,7 @@ I specialize in building middleware for database. I love designing systems that 
 <div>  
 
 ## Donate  
-Your sponsorship enables me to spend more time pursuing my passion and less time pursuing keeping a roof over my head.  
+**Your sponsorship enables me to spend more time pursuing my passion and less time pursuing keeping a roof over my head.  **
   
 
 <div align="center">
