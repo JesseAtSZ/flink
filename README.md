@@ -73,10 +73,6 @@ I specialize in building middleware for database. I love designing systems that 
 
 <div>  
 
-<br/>  
-
-
-
 ## Donate  
 Your sponsorship enables me to spend more time pursuing my passion and less time pursuing keeping a roof over my head.  
   
