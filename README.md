@@ -95,3 +95,6 @@ Your sponsorship enables me to spend more time pursuing my passion and less time
 </div>  
 
 <br />
+
+----
+<!--Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>-->
