@@ -71,6 +71,15 @@ I specialize in building middleware for database. I love designing systems that 
 
 <br/>  
 
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=JesseAtSZ&&style=flat-square)  
+  
+
+<br/>  
+
 <div>  
 
 <br/>  
@@ -86,15 +95,3 @@ Your sponsorship enables me to spend more time pursuing my passion and less time
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-  
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=JesseAtSZ&&style=flat-square)  
-  
-
-<br/>  
