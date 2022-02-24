@@ -12,7 +12,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- **I’m currently working on Shenzhen Institute of Computing Sciences**  
+<!--- **I’m currently working on Shenzhen Institute of Computing Sciences**-->  
   
 
 - **I’m currently learning rust and key-value database**  
