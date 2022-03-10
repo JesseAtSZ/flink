@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/icon/hi.gif?raw=true" width="25px">, I'm Jesse!  
 
 ### Glad to see you here!  
-**I'm Jesse, a full-time database developer, working since 2018.**
+**I'm Jesse, a full-time big data developer, working since 2018.**
 
 **I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.**  
   
@@ -12,10 +12,10 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- **I’m currently working on Shenzhen** <!--Institute of Computing Sciences**-->  
+- **I’m currently working in Shenzhen** <!--Institute of Computing Sciences**-->  
   
 
-- **I’m currently learning rust and key-value database**  
+- **I’m currently learning rust and Flink**  
   
 
 - **Ask me about anything related to database and related technologies**  
