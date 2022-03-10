@@ -15,7 +15,7 @@
 - **I’m currently working in Shenzhen** <!--Institute of Computing Sciences**-->  
   
 
-- **I’m currently learning rust and Flink**  
+- **I’m currently learning Rust and Flink**  
   
 
 - **Ask me about anything related to database and related technologies**  
