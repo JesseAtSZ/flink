@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/icon/hi.gif?raw=true" width="25px">, I'm Jesse!  
 
 ### Glad to see you here!  
-**I'm Jesse, a full-time big data developer, working since 2018.**
+**I'm Jesse, a full-time database developer, working since 2018.**
 
 **I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.**  
   
