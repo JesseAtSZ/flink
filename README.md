@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/icon/hi.gif?raw=true" width="25px">, I'm Jesse!  
+## Hey <img src="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/icon/hi.gif?raw=true" width="2.5px">, I'm Jesse!  
 
 ### Glad to see you here!  
 **I'm Jesse, a full-time database developer, working since 2018.**
