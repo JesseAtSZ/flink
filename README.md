@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/icon/hi.gif?raw=true" width="25px">, I'm Jesse!  
+## Hey 👋, I'm Jesse!  
 
 ### Glad to see you here!  
 **I'm Jesse, a full-time database developer, working since 2018.**
@@ -21,7 +21,7 @@
 - **Ask me about anything related to database and related technologies**  
   
   
-- **I love basketball, fitness, traveling, Overwatch, classic music and enjoying delicious food**  
+- **I love piano, fitness, traveling, Overwatch, classic music and enjoying delicious food**  
 
 
 - **I love connecting with different people so if you want to say hi, I'll be happy to meet you more!**  
