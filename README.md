@@ -5,7 +5,6 @@
 ### Glad to see you here!  
 I'm Jesse, a full-time database developer, working since 2018. I specialize in building middleware for database. I love designing systems that are light yet powerful, distributed yet synchronized. I also frequently blog about the world behind the screen which involves system designs, databases, middleware, servers, optimisation and also promising technologies.  
   
-<br/>  
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
