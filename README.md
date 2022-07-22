@@ -1,4 +1,4 @@
-## Hey 👋, I'm Jesse!  
+## Hey 👋, I'm Jesse!  ![Profile views counter](https://komarev.com/ghpvc/?username=JesseAtSZ&&style=flat-square)  
 
 ![header](https://github.com/JesseAtSZ/JesseAtSZ/blob/main/icon/header.png)
 
@@ -80,7 +80,5 @@ I'm Jesse, a full-time database developer, working since 2018. I specialize in b
 
 <br />
 
-![Profile views counter](https://komarev.com/ghpvc/?username=JesseAtSZ&&style=flat-square)  
-  
 ----
 <!--Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a>-->
