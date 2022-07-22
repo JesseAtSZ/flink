@@ -37,7 +37,7 @@ I'm Jesse, a full-time database developer, working since 2018. I specialize in b
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/rust-plain.svg" alt="Rust" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/rust-plain.svg" alt="Rust" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/c-original.svg" alt="C" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/linux-original.svg" alt="Linux" height="50" />  
