@@ -38,17 +38,17 @@ I'm Jesse, a full-time database developer, working since 2018. I specialize in b
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/rust-plain.svg" alt="Rust" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/apache_kafka-icon.svg" alt="Kafka" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/oracle-original.svg" alt="Oracle" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/jenkins-icon.svg" alt="Jenkins" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ.github.io/725b02bcb21d7592f21c1d03f8789324adb1438f/img/icon/docker-original-wordmark.svg" alt="Docker" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/c-original.svg" alt="C" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/apache_hadoop-icon.svg" alt="Hadoop" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/oracle-original.svg" alt="Oracle" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/jenkins-icon.svg" alt="Jenkins" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/JesseAtSZ/JesseAtSZ/main/icon/docker-original-wordmark.svg" alt="Docker" height="50" />  
 </div>  
 
 <br/>  
